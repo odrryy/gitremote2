@@ -21,7 +21,11 @@ header {
   text-align: center;
   padding: 60px 20px 40px;
   background: linear-gradient(135deg, #008080, #00bfa6);
+<<<<<<< HEAD
   color: red;
+=======
+  color: black;
+>>>>>>> 7233042889d06bc28a65248f068d28fd73eb118f
 }
 
 header h1 {
@@ -106,5 +110,6 @@ footer {
   font-size: 0.9rem;
   margin-top: 60px;
 }
+
 
 
